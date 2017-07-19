@@ -226,7 +226,6 @@ function config_shadowsocks(){
     "redirect": "",
     "fast_open": false,
     "workers": 1
-
 }
 EOF
 }
