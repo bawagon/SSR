@@ -8,17 +8,16 @@ export PATH
 #   Thanks: @breakwa11 <https://twitter.com/breakwa11>            #
 #   Intro:  https://shadowsocks.be/9.html                         #
 #=================================================================#
-
+rm -f SSR
 clear
+echo -e "\033[34m================================================================\033[0m
+\033[31m                     欢迎使用shadowsocksR一键脚本                         \033[0m
+\033[31m                        从现在开始，变成一只猫！                 \033[0m
+\033[31m                                                   By:Sherlockwoo        \033[0m
+\033[31m                            Starting Now...                             \033[0m
+\033[34m================================================================\033[0m";
 echo
-echo "#############################################################"
-echo "# One click Install ShadowsocksR Server                     #"
-echo "# Intro: https://shadowsocks.be/9.html                      #"
-echo "# Author: Teddysun <i@teddysun.com>                         #"
-echo "# Github: https://github.com/breakwa11/shadowsocks          #"
-echo "#############################################################"
 echo
-
 #Current folder
 cur_dir=`pwd`
 
