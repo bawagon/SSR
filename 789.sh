@@ -1,22 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @bawagon
- Sign out
- Watch 0
-  Star 0
-  Fork 0 bawagon/SSR
- Code  Issues 0  Pull requests 0  Projects 1  Wiki  Settings Insights 
-Branch: master Find file Copy pathSSR/ssr.sh
-aa8c86b  2 minutes from now
-@bawagon bawagon Update ssr.sh
-1 contributor
-RawBlameHistory     
-387 lines (364 sloc)  12.4 KB
 #!/usr/bin/env bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
